@@ -5,20 +5,20 @@
 - 📫 How to reach me ... instagram handle - @abhinandansaha991 / email - abhinandan.ss252003@gmail.com 
 - A bit about me: 
 
-- Highly motivated, disciplined and driven
-- Hard Worker and a fast learner
-- I believe in collaboration in bringing out the best solutions to problems
-- Hungry to learn
+  - Highly motivated, disciplined and driven
+  - Hard Worker and a fast learner
+  - I believe in collaboration in bringing out the best solutions to problems
+  - Hungry to learn
 
-- SKILLS:
-  - Proficient in Python, C, Java
-  - Studied and created strong foundations and mastery of HTML, CSS, JavaScript, Djago, APIs.
-  - Deep understanding and practical knowledge of Data Science and Data Analytics, machine learning algorithms and AI concepts.
-  - Deep Understanding of data structures, algorithms, Object Oriented Programming and complexity.
-  - Proficient in SQL
-  - Strong understanding and mastery of mathematical concepts such as Calculus, Algebra, Descrete Mathematics etc.
+  - SKILLS:
+    - Proficient in Python, C, Java
+    - Studied and created strong foundations and mastery of HTML, CSS, JavaScript, Djago, APIs.
+    - Deep understanding and practical knowledge of Data Science and Data Analytics, machine learning algorithms and AI concepts.
+    - Deep Understanding of data structures, algorithms, Object Oriented Programming and complexity.
+    - Proficient in SQL
+    - Strong understanding and mastery of mathematical concepts such as Calculus, Algebra, Descrete Mathematics etc.
   
-- PROJECTS:
+  - PROJECTS:
     - Created speech to text application (SPTT) [Python] || Github link: https://abhinandan991.github.io/SPTT/
     - Created E-commerce Website (listerr-commerce) [Python, Django, HTML, CSS, Javascript]
     - Created a text-based Social Media Website [Python, Django, HTML, CSS]
@@ -83,6 +83,6 @@
    
    -I believe that practical application and hands on learning serve as the truest gateway to gain core understanding about subjects, and with this vision I have completed 7   projects related to AI and machine learning, created multiple websites to master Web Developement, using javascript, html, css, Django etc. and worked on 9 data science projects and 1 capstone project for SpaceX’s launch success prediction and analysis. I have learned  about the fundamental concepts of AI and as a part of the coursework for an online course (Harvardx – CS50 AI), I have worked on and completed its seven projects and have  implemented worker functions for the proper functioning of the AI in problems pertaining to problems such as, Optimization, Best path solve, PageRank, speech (parser and answering questions), Inference, knowledge etc. 
    
-  I have also participated in IBM's Training network course for professional skill building and gave exams and passed with a grade above 90% on real world problems.
+    -I have also participated in IBM's Training network course for professional skill building and gave exams and passed with a grade above 90% on real world problems.
   
 - I am honing my skills and am enthusiastic and excited to keep on learning and given a chance I want to get into research and start working on my subject as soon as possible, and become industry-ready and especially future ready. 
